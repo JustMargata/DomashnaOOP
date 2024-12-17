@@ -1,0 +1,7 @@
+C:\Users\marte\OneDrive\Desktop\domashniOOP\Domashni\Klasove\bin\Debug\Klasove.exe.config
+C:\Users\marte\OneDrive\Desktop\domashniOOP\Domashni\Klasove\bin\Debug\Klasove.exe
+C:\Users\marte\OneDrive\Desktop\domashniOOP\Domashni\Klasove\bin\Debug\Klasove.pdb
+C:\Users\marte\OneDrive\Desktop\domashniOOP\Domashni\Klasove\obj\Debug\Klasove.csproj.AssemblyReference.cache
+C:\Users\marte\OneDrive\Desktop\domashniOOP\Domashni\Klasove\obj\Debug\Klasove.csproj.CoreCompileInputs.cache
+C:\Users\marte\OneDrive\Desktop\domashniOOP\Domashni\Klasove\obj\Debug\Klasove.exe
+C:\Users\marte\OneDrive\Desktop\domashniOOP\Domashni\Klasove\obj\Debug\Klasove.pdb

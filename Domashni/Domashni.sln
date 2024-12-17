@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klasove", "Klasove\Klasove.csproj", "{65C0D683-AA63-4C52-ADB8-CE4B68AADB22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triugulnik", "Triugulnik\Triugulnik.csproj", "{707173E1-F934-40B3-8E7B-2051EC26F565}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65C0D683-AA63-4C52-ADB8-CE4B68AADB22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65C0D683-AA63-4C52-ADB8-CE4B68AADB22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65C0D683-AA63-4C52-ADB8-CE4B68AADB22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65C0D683-AA63-4C52-ADB8-CE4B68AADB22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{707173E1-F934-40B3-8E7B-2051EC26F565}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{707173E1-F934-40B3-8E7B-2051EC26F565}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{707173E1-F934-40B3-8E7B-2051EC26F565}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{707173E1-F934-40B3-8E7B-2051EC26F565}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03C15408-1014-4DC5-8B78-17085F8DE9B8}
+	EndGlobalSection
+EndGlobal

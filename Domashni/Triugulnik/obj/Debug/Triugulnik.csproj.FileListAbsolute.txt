@@ -1,0 +1,7 @@
+C:\Users\marte\OneDrive\Desktop\domashniOOP\Domashni\Triugulnik\bin\Debug\Triugulnik.exe.config
+C:\Users\marte\OneDrive\Desktop\domashniOOP\Domashni\Triugulnik\bin\Debug\Triugulnik.exe
+C:\Users\marte\OneDrive\Desktop\domashniOOP\Domashni\Triugulnik\bin\Debug\Triugulnik.pdb
+C:\Users\marte\OneDrive\Desktop\domashniOOP\Domashni\Triugulnik\obj\Debug\Triugulnik.csproj.AssemblyReference.cache
+C:\Users\marte\OneDrive\Desktop\domashniOOP\Domashni\Triugulnik\obj\Debug\Triugulnik.csproj.CoreCompileInputs.cache
+C:\Users\marte\OneDrive\Desktop\domashniOOP\Domashni\Triugulnik\obj\Debug\Triugulnik.exe
+C:\Users\marte\OneDrive\Desktop\domashniOOP\Domashni\Triugulnik\obj\Debug\Triugulnik.pdb
